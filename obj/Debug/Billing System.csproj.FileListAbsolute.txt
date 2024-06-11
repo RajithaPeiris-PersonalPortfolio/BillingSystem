@@ -1,0 +1,43 @@
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\BillingSystem.exe.config
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\BillingSystem.exe
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\BillingSystem.pdb
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\Billing System.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\Billing System.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\Billing System.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\BillingSystem.exe
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\BillingSystem.pdb
+C:\Users\USER\Downloads\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.exe.config
+C:\Users\USER\Downloads\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.exe
+C:\Users\USER\Downloads\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.pdb
+C:\Users\USER\Downloads\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.exe
+C:\Users\USER\Downloads\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.pdb
+C:\Users\USER\Downloads\Simple Billing System in C#\Billing System\obj\Debug\Billing System.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Simple Billing System in C#\Billing System\obj\Debug\CafeManagement.Form1.resources
+C:\Users\USER\Downloads\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\USER\Downloads\Simple Billing System in C#\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\Simple Billing System in C#\Billing System\bin\Debug\Guna.UI.dll
+E:\FORM\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.exe.config
+E:\FORM\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.exe
+E:\FORM\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.pdb
+E:\FORM\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.exe
+E:\FORM\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.pdb
+E:\FORM\Simple Billing System in C#\Billing System\bin\Debug\Guna.UI.dll
+E:\FORM\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.Properties.Resources.resources
+E:\FORM\Simple Billing System in C#\Billing System\obj\Debug\Billing System.csproj.GenerateResource.cache
+E:\FORM\Simple Billing System in C#\Billing System\obj\Debug\Billing System.csprojResolveAssemblyReference.cache
+E:\FORM\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.LOGIN.resources
+E:\FORM\Simple Billing System in C#\Billing System\obj\Debug\CafeManagement.Menuform.resources
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.exe.config
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.exe
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.pdb
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\obj\Debug\Billing System.csproj.AssemblyReference.cache
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\obj\Debug\CafeManagement.Menuform.resources
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.LOGIN.resources
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.Properties.Resources.resources
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\obj\Debug\Billing System.csproj.GenerateResource.cache
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\obj\Debug\Billing System.csproj.CoreCompileInputs.cache
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\obj\Debug\Billing .BB39E81F.Up2Date
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.exe
+F:\RAJITHA\C#\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.pdb

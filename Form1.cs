@@ -91,8 +91,8 @@ namespace CafeManagement
             rtfReceipt.AppendText("-------------------------------------------------------------" + Environment.NewLine);
             rtfReceipt.AppendText("Service Charge \t\t" + lblSvcCharge.Text + Environment.NewLine);
             rtfReceipt.AppendText("-------------------------------------------------------------" + Environment.NewLine);
-            rtfReceipt.AppendText("Tax \t\t\t\t" + lblTax.Text + Environment.NewLine);
             rtfReceipt.AppendText("Sub Total \t\t\t" + lblSubTotal.Text + Environment.NewLine);
+            rtfReceipt.AppendText("Tax \t\t\t\t" + lblTax.Text + Environment.NewLine);
             rtfReceipt.AppendText("Total Cost \t\t\t" + lblTotal.Text + Environment.NewLine);
             rtfReceipt.AppendText("-------------------------------------------------------------" + Environment.NewLine);
             rtfReceipt.AppendText(lblTimer.Text + "\t" + lblDate.Text);
@@ -107,7 +107,7 @@ namespace CafeManagement
             double tax;
             tax = 18;
 
-            lat = 1.20; mocha = 1.50; espr = 1.29; vale = 1.45; cappu = 1.70; afri = 1.50; mTea = 1.45; cTea = 1.10; //coffee pries
+            lat = 1.20; mocha = 1.50; espr = 1.29; vale = 1.45; cappu = 1.70; afri = 1.50; mTea = 1.45; cTea = 1.10; //coffee prices
             cCake = 1.30; rValvet = 1.20; bFor = 1.30; bCream = 1.90; lChoco = 1.50; kChoco = 1.40; cheese = 1.30; rain = 1.10; //cake prices
 
 
@@ -121,6 +121,7 @@ namespace CafeManagement
             double afriCof = Convert.ToDouble(txtAfricanCoffee.Text);
             double miTea = Convert.ToDouble(txtMilkTea.Text);
             double cineseTea = Convert.ToDouble(txtChineseTea.Text);
+
             //Cakes
             double cofCake = Convert.ToDouble(txtCoffeCake.Text);
             double redValvet = Convert.ToDouble(txtRedValvetCake.Text);
@@ -140,7 +141,7 @@ namespace CafeManagement
             double cakeCosts = (cofCake * cCake) + (redValvet * rValvet) + (bForest * bFor) + (bostonCream * bCream) + (lagosChoco * lChoco) + (kilbChoco * kChoco) + (cheeseCak * cheese) + (rainbow * rain);
             lblCakeCost.Text = Convert.ToString(cakeCosts);
 
-            double svcCharge = Convert.ToDouble(lblSvcCharge.Text);
+            double svcCharge = Double.Parse(lblSvcCharge.Text);
 
             lblSubTotal.Text = Convert.ToString(cakeCosts + drinkCosts + svcCharge);
             lblTax.Text = Convert.ToString(((cakeCosts + drinkCosts + svcCharge) * tax) / 100);
